@@ -2,5 +2,3 @@ Hi This is Venkatesh Git
 This is consider as First file
 
 hello india
-
-this is to check checkout sha
